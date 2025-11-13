@@ -1,5 +1,5 @@
 
-# Multi-Trail Payment Gateway
+# Multi-Rail Payment Gateway
 
 This is a Spring Boot application that provides a multi-trail payment gateway.
 
